@@ -1,6 +1,14 @@
 ## Hey there, my name is Samuel, but i prefer being called Amorim. 
 
-Estudante de Design
+I am a student of digital design, participant of the college "Universidade Federal do Ceará" since 2025.
+
+I have no previous experiencie with coding or drawing, but i aim to improve those skills by the years.
+
+I like games, dogs, books, series and music.
+
+I also like memes and using social media like twitter and discord.
+
+
 
 <!--
 **SamuelAM27/SamuelAM27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
