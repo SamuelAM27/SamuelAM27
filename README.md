@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there, my name is Samuel, but i prefer being called Amorim.
 
 <!--
 **SamuelAM27/SamuelAM27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
